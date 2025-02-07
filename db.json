@@ -1,0 +1,268 @@
+{
+    "dash": {
+        "top-cards": [
+            {
+                "title": "Daily Sales",
+                "Amount": "2k",
+                "time": "9 February 2025",
+                "image": "bottom1.png"
+            },
+            {
+                "title": "Monthly Revenue",
+                "Amount": "55k",
+                "time": "1 Jan - 1 Feb",
+                "image": "bottom2.png"
+            },
+            {
+                "title": "Table Occupancy",
+                "Amount": "25 Tables",
+                "image": "bottom1.png"
+            }
+        ],
+        "popular": [
+            {
+                "image": "cp.png",
+                "name": "Chicken Parmesan",
+                "serving": "Serving: 01 Person",
+                "stock": "In Stock",
+                "price": "$55.00"
+            },
+            {
+                "image": "cp.png",
+                "name": "Chicken Parmesan",
+                "serving": "Serving: 01 Person",
+                "stock": "In Stock",
+                "price": "$55.00"
+            },
+            {
+                "image": "cp.png",
+                "name": "Chicken Parmesan",
+                "serving": "Serving: 01 Person",
+                "stock": "In Stock",
+                "price": "$55.00"
+            },
+            {
+                "image": "cp.png",
+                "name": "Chicken Parmesan",
+                "serving": "Serving: 01 Person",
+                "stock": "Out of Stock",
+                "price": "$55.00"
+            },
+            {
+                "image": "cp.png",
+                "name": "Chicken Parmesan",
+                "serving": "Serving: 01 Person",
+                "stock": "In Stock",
+                "price": "$55.00"
+            }
+        ],
+        "graph-sales": [3200, 4000, 1900, 3500, 4800, 4000, 4500, 4200, 3800, 3200, 2800, 4500],
+        "graph-revenue": [2000, 2100, 2500, 2200, 3000, 2800, 3200, 3000, 2900, 2800, 2200, 2500]
+    },
+    "menu": {
+        "categories": [
+            {
+                "image": "menu.png",
+                "name": "All",
+                "wty": "116 items"
+            },
+            {
+                "image": "pizza.png",
+                "name": "Pizza",
+                "wty": "20 items"
+            },
+            {
+                "image": "burger.png",
+                "name": "Burger",
+                "wty": "15 items"
+            },
+            {
+                "image": "chicken.png",
+                "name": "Chicken",
+                "wty": "10 items"
+            },
+            {
+                "image": "bakery.png",
+                "name": "Bakery",
+                "wty": "18 items"
+            },
+            {
+                "image": "fast-food.png",
+                "name": "Beverage",
+                "wty": "12 items"
+            },
+            {
+                "image": "prawn.png",
+                "name": "Seafood",
+                "wty": "16 items"
+            }
+        ],
+        "product": [
+            {
+                "id": "#22314644",
+                "name": "Chicken Parmesan",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing.",
+                "stock": "119 items",
+                "category": "Chicken",
+                "price": "$55.00",
+                "availability": "In Stock",
+                "image": "cp.png"
+            },
+            {
+                "id": "#22314645",
+                "name": "Chicken Parmesan",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing.",
+                "stock": "119 items",
+                "category": "Chicken",
+                "price": "$55.00",
+                "availability": "In Stock",
+                "image": "cp.png"
+            },
+            {
+                "id": "#22314646",
+                "name": "Chicken Parmesan",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing.",
+                "stock": "119 items",
+                "category": "Chicken",
+                "price": "$55.00",
+                "availability": "In Stock",
+                "image": "cp.png"
+            },
+            {
+                "id": "#22314647",
+                "name": "Chicken Parmesan",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing.",
+                "stock": "119 items",
+                "category": "Chicken",
+                "price": "$55.00",
+                "availability": "In Stock",
+                "image": "cp.png"
+            },
+            {
+                "id": "#22314648",
+                "name": "Chicken Parmesan",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing.",
+                "stock": "119 items",
+                "category": "Chicken",
+                "price": "$55.00",
+                "availability": "In Stock",
+                "image": "cp.png"
+            },
+            {
+                "id": "#22314649",
+                "name": "Chicken Parmesan",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing.",
+                "stock": "119 items",
+                "category": "Chicken",
+                "price": "$55.00",
+                "availability": "In Stock",
+                "image": "cp.png"
+            }
+        ]
+    },
+    "staff":{
+        "attnd-details":[
+            {
+                "id": "#101",
+                "name": "Watson Joyce",
+                "description": "Manager",
+                "date": "16-Apr-2024",
+                "timings": "9am to 6am"
+            },
+            {
+                "id": "#101",
+                "name": "Watson Joyce",
+                "description": "Manager",
+                "date": "16-Apr-2024",
+                "timings": "9am to 6am"
+            },
+            {
+                "id": "#101",
+                "name": "Watson Joyce",
+                "description": "Manager",
+                "date": "16-Apr-2024",
+                "timings": "9am to 6am"
+            },
+            {
+                "id": "#101",
+                "name": "Watson Joyce",
+                "description": "Manager",
+                "date": "16-Apr-2024",
+                "timings": "9am to 6am"
+            },
+            {
+                "id": "#101",
+                "name": "Watson Joyce",
+                "description": "Manager",
+                "date": "16-Apr-2024",
+                "timings": "9am to 6am"
+            },
+            {
+                "id": "#101",
+                "name": "Watson Joyce",
+                "description": "Manager",
+                "date": "16-Apr-2024",
+                "timings": "9am to 6am"
+            },
+            {
+                "id": "#101",
+                "name": "Watson Joyce",
+                "description": "Manager",
+                "date": "16-Apr-2024",
+                "timings": "9am to 6am"
+            }
+        ],
+        "staff-details":[
+            {
+                "id": "#101",
+                "name": "Watson Joyce",
+                "description": "Manager",
+                "email": "watsonjoyce112@gmail.com",
+                "phone": "+1 (123) 123 4654",
+                "age": "45 yr",
+                "salary": "$2200.00",
+                "timings": "9am to 6pm"
+            },
+            {
+                "id": "#101",
+                "name": "Watson Joyce",
+                "description": "Manager",
+                "email": "watsonjoyce112@gmail.com",
+                "phone": "+1 (123) 123 4654",
+                "age": "45 yr",
+                "salary": "$2200.00",
+                "timings": "9am to 6pm"
+            },
+            {
+                "id": "#101",
+                "name": "Watson Joyce",
+                "description": "Manager",
+                "email": "watsonjoyce112@gmail.com",
+                "phone": "+1 (123) 123 4654",
+                "age": "45 yr",
+                "salary": "$2200.00",
+                "timings": "9am to 6pm"
+            },
+            {
+                "id": "#101",
+                "name": "Watson Joyce",
+                "description": "Manager",
+                "email": "watsonjoyce112@gmail.com",
+                "phone": "+1 (123) 123 4654",
+                "age": "45 yr",
+                "salary": "$2200.00",
+                "timings": "9am to 6pm"
+            },
+            {
+                "id": "#101",
+                "name": "Watson Joyce",
+                "description": "Manager",
+                "email": "watsonjoyce112@gmail.com",
+                "phone": "+1 (123) 123 4654",
+                "age": "45 yr",
+                "salary": "$2200.00",
+                "timings": "9am to 6pm"
+            }
+        ]
+    }
+}
